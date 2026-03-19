@@ -1,0 +1,11 @@
+# Dependências do Projeto Python - Automação de Cadastro de Produtos
+
+# Web Automation
+playwright==1.40.0
+
+# Data Processing
+pandas==2.1.4
+openpyxl==3.11.0
+
+# Utilities
+python-dotenv==1.0.0

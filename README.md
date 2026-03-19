@@ -1,4 +1,4 @@
-# Projeto Python
+# Projeto Python Automação
 
 Um projeto Python moderno e bem estruturado, pronto para desenvolvimento.
 
